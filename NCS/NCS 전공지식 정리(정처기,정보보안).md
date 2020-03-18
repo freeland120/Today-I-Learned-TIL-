@@ -93,3 +93,14 @@ RAID-6 :  RAID 6 레벨은 두 개의 패리티 디스크를 사용하므로 두
 ![image-20200316093127244](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200316093127244.png)
 
 <hr>
+
+![image-20200318084333812](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200318084333812.png)
+
+<hr>
+
+DDL : CREATE, ALTER, DROP
+
+DML : SELECT, INSERT, DELETE, UPDATE
+
+DCL : COMMIT, ROLLEBACK, GRANT, REVOKE
+
