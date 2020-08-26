@@ -12,5 +12,9 @@
 
 
 
-### Table 구조
+### 2.Table 구조
+
+![image-20200824202739351](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200824202739351.png)
+
+![image-20200824202836594](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200824202836594.png)
 
