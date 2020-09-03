@@ -81,3 +81,23 @@
 ![image-20200831174906215](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831174906215.png)
 
 ![image-20200831175109692](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831175109692.png)
+
+![image-20200831175124331](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831175124331.png)
+
+![image-20200831175351041](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831175351041.png)
+
+![image-20200831175422766](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831175422766.png)
+
+![image-20200831175745039](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831175745039.png)
+
+![image-20200831180041941](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831180041941.png)
+
+![image-20200831180213182](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831180213182.png)
+
+![image-20200831180224819](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831180224819.png)
+
+![image-20200831180601064](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831180601064.png)
+
+**위와 같은 타입은 코딩테스트 문제에서 어떤 값이 나왔는지 안나왔는지 체크할때 유용한 집합자료형**
+
+![image-20200831180734249](C:\Users\KAUstar\AppData\Roaming\Typora\typora-user-images\image-20200831180734249.png)
