@@ -5,3 +5,4 @@ ret = sum(arr) // len(arr)
 print(ret)
 
 
+print("Hello World")

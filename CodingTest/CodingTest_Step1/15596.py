@@ -11,3 +11,4 @@ self_num = self_num - generated_num
 
 for i in sorted(self_num):
     print(i)
+    fo
